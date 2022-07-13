@@ -33,4 +33,4 @@ describe('https://lv.sportsdirect.com/', () => {
   });
 });
 
-//If timeoute, rerun test | page problem?
+//Sportdirect is slow, if timedout, rerun test
